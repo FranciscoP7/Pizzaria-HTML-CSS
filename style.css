@@ -1,6 +1,24 @@
- #teste {   
+#teste {   
     background-color:rgb(255, 208, 55);
     text-align: center;
     font-size : 100px ;
     
+}
+#imagem {
+    text-align: center;
+    background-color: rgb(235, 180, 0);
+}
+
+#menu{
+
+    font-size: 43px;
+    text-align: center;
+    background-color: rgb(202, 202, 202);
+}
+#central{
+    text-align: center;
+}
+#itens{
+    background-color: rgb(100, 99, 95);
+    color: rgb(225, 225, 225);
 }
